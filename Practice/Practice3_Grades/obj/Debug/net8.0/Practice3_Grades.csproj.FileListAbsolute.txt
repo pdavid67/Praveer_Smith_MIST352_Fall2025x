@@ -1,0 +1,15 @@
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\bin\Debug\net8.0\Practice3_Grades.exe
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\bin\Debug\net8.0\Practice3_Grades.deps.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\bin\Debug\net8.0\Practice3_Grades.runtimeconfig.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\bin\Debug\net8.0\Practice3_Grades.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\bin\Debug\net8.0\Practice3_Grades.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\Practice3_Grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\Practice3_Grades.AssemblyInfoInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\Practice3_Grades.AssemblyInfo.cs
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\Practice3_Grades.csproj.CoreCompileInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\Practice3_Grades.sourcelink.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\Practice3_Grades.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\refint\Practice3_Grades.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\Practice3_Grades.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\Practice3_Grades.genruntimeconfig.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice3_Grades\obj\Debug\net8.0\ref\Practice3_Grades.dll

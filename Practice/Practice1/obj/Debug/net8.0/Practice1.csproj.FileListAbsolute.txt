@@ -1,0 +1,15 @@
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\bin\Debug\net8.0\Practice1.exe
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\bin\Debug\net8.0\Practice1.deps.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\bin\Debug\net8.0\Practice1.runtimeconfig.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\bin\Debug\net8.0\Practice1.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\bin\Debug\net8.0\Practice1.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\Practice1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\Practice1.AssemblyInfoInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\Practice1.AssemblyInfo.cs
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\Practice1.csproj.CoreCompileInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\Practice1.sourcelink.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\Practice1.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\refint\Practice1.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\Practice1.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\Practice1.genruntimeconfig.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Practice1\obj\Debug\net8.0\ref\Practice1.dll
