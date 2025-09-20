@@ -1,0 +1,15 @@
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\bin\Debug\net8.0\If_Simple_Grade.exe
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\bin\Debug\net8.0\If_Simple_Grade.deps.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\bin\Debug\net8.0\If_Simple_Grade.runtimeconfig.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\bin\Debug\net8.0\If_Simple_Grade.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\bin\Debug\net8.0\If_Simple_Grade.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\If_Simple_Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\If_Simple_Grade.AssemblyInfoInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\If_Simple_Grade.AssemblyInfo.cs
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\If_Simple_Grade.csproj.CoreCompileInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\If_Simple_Grade.sourcelink.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\If_Simple_Grade.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\refint\If_Simple_Grade.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\If_Simple_Grade.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\If_Simple_Grade.genruntimeconfig.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\If_Simple_Grade\obj\Debug\net8.0\ref\If_Simple_Grade.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IF_Multiple_Grades_Evaluation", "IF_Multiple_Grades_Evaluation.csproj", "{EDA90115-A656-41E7-B5BE-A780E1F68E33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDA90115-A656-41E7-B5BE-A780E1F68E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDA90115-A656-41E7-B5BE-A780E1F68E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDA90115-A656-41E7-B5BE-A780E1F68E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDA90115-A656-41E7-B5BE-A780E1F68E33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E27BCD-566E-41A4-8B78-BBA9B7C74919}
+	EndGlobalSection
+EndGlobal
