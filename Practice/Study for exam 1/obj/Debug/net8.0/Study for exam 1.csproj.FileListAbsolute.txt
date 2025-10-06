@@ -1,0 +1,15 @@
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\bin\Debug\net8.0\Study for exam 1.exe
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\bin\Debug\net8.0\Study for exam 1.deps.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\bin\Debug\net8.0\Study for exam 1.runtimeconfig.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\bin\Debug\net8.0\Study for exam 1.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\bin\Debug\net8.0\Study for exam 1.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\Study for exam 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\Study for exam 1.AssemblyInfoInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\Study for exam 1.AssemblyInfo.cs
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\Study for exam 1.csproj.CoreCompileInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\Study for exam 1.sourcelink.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\Study for exam 1.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\refint\Study for exam 1.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\Study for exam 1.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\Study for exam 1.genruntimeconfig.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\Practice\Study for exam 1\obj\Debug\net8.0\ref\Study for exam 1.dll
