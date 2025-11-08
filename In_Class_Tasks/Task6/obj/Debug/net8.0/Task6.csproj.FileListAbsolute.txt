@@ -1,0 +1,15 @@
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\bin\Debug\net8.0\Task6.exe
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\bin\Debug\net8.0\Task6.deps.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\bin\Debug\net8.0\Task6.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\bin\Debug\net8.0\Task6.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\Task6.sourcelink.json
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\Task6.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\refint\Task6.dll
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\Task6.pdb
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+C:\MIST352_Fall2025\Praveer_Smith_MIST352_Fall2025x\In_Class_Tasks\Task6\obj\Debug\net8.0\ref\Task6.dll
